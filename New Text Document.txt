@@ -1,0 +1,15 @@
+
+https://www.katacoda.com/rkalluru
+https://dev.azure.com/DevOps-Batches/DevOps56
+https://github.com/raghudevops56
+https://miro.com/app/board/o9J_lHkNvAw=/
+
+ssh -i "id_rsa" centos@ec2-18-234-225-213.compute-1.amazonaws.com
+
+
+
+
+JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.302.b08-0.el8_4.x86_64
+
+
+10/06/2021--jenkins

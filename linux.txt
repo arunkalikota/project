@@ -1,0 +1,27 @@
+commands:
+
+
+lsblk=========to know disk size
+
+ls===========list of files
+ls -a====== to show hidden files
+ls -l======to show long list 
+ls -al=======show along with hidden files long list
+
+remove files
+===========
+rm filename
+
+rm -f filename====  forcefully remove file 
+cp sourcefile destination file=======copy file dource location to destination location
+mv file1 file2=======rename file1 name as file2
+cd===change directory
+mkdir======make a directory
+mkdir -p/arun/kalikota/kumar           
+          here p option used to create directory recurcively
+
+mkdir dir1 dir2 dir3===we can create multiple directory 
+
+
+cp -r dir1 dir2====cp is command used for copy files not directory but here we use -r command for exculsivly copy directory 
+centoos7 devops-practice===DevOps321
